@@ -10,6 +10,7 @@
             {
                 "id": "rs53338316",
                 "recipe_name": "Naan",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpExFdwB34RFXytIhVPgH7EtRPGaccmDvDMA&usqp=CAU",
                 "ingredients":{
                     "item1":"1 cup all purpose flour",
                     "item2":"1 tablespoon butter",
@@ -21,7 +22,39 @@
                 },
                 "methods_of_cookies":"To prepare this easy naan recipe, sieve together the dry ingredients into a kneading plate. Once done, add butter, curd, oil in the dry ingredients and crumble using your fingers. Add little milk (as and when required) in the mixture, till the dough is soft.",
                 "rating" : "4.5"
-            }           
+            } ,
+            {
+                "id": "rs53338120",
+                "recipe_name": " Pani Puri",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY07Ci6JnEziVSOMrmF6RgOR-YfhQdXCVYYA&usqp=CAU",
+                "ingredients":{
+                    "item1":"1 cup semolina",
+                    "item2":"water as required",
+                    "item3":"3 teaspoon cumin powder",
+                    "item4":"5 green chilli",
+                    "item5":"1/2 teaspoon baking soda",
+                    "item6":"refined oil as required",
+                    "item7":"4 tablespoon crushed jaggery"
+                },
+                "methods_of_cookies":"To make this easy Pani Puri recipe at home, take a bowl and add semolina, wheat flour, baking soda along with a little salt and water as required and prepare a stiff dough. Adding semolina will make the puris crispy. Then, cover it with a muslin cloth, let it remain aside for about half an hour.",
+                "rating" : "5"
+            },
+            {
+                "id": "rs53338120",
+                "recipe_name": " Pani Puri",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY07Ci6JnEziVSOMrmF6RgOR-YfhQdXCVYYA&usqp=CAU",
+                "ingredients":{
+                    "item1":"1 cup semolina",
+                    "item2":"water as required",
+                    "item3":"3 teaspoon cumin powder",
+                    "item4":"5 green chilli",
+                    "item5":"1/2 teaspoon baking soda",
+                    "item6":"refined oil as required",
+                    "item7":"4 tablespoon crushed jaggery"
+                },
+                "methods_of_cookies":"To make this easy Pani Puri recipe at home, take a bowl and add semolina, wheat flour, baking soda along with a little salt and water as required and prepare a stiff dough. Adding semolina will make the puris crispy. Then, cover it with a muslin cloth, let it remain aside for about half an hour.",
+                "rating" : "5"
+            }                 
         ]
     }
     ,  
@@ -36,6 +69,7 @@
             {
                 "id": "rs53338327",
                 "recipe_name": "Paratha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2L8xbHTGpA0ytr_gd7nxoDc3Q-qBMAQQCA&usqp=CAU",
                 "ingredients":{
                     "item1":"2 potato",
                     "item2":"1 tablespoon coriander leaves",
@@ -47,7 +81,39 @@
                 },
                 "methods_of_cookies":"To make delicious Aloo Parathas, boil the potatoes at least a few hours before you plan to make the parathas, mash them in a large bowl and cover and refrigerate. Take them out from the fridge and add chopped onions, coriander leaves, salt, garam masala powder and red chilli powder. Mix well so that no lumps remain. Ensure that you have finely chopped the onions or the filling will fall out.",
                 "rating" : "5"
-            }           
+            }   ,
+            {
+                "id": "rs53337338",
+                "recipe_name": " Papadam",
+                "recipe_img": " https://st4.depositphotos.com/19960896/28979/i/450/depositphotos_289794242-stock-photo-gujarati-papad-papadum-raw-dried.jpg",
+                "ingredients":{
+                    "item1":"1/2 cup black gram flour ( sattu)",
+                    "item2":"1 cup refined oil",
+                    "item3":"1/2 teaspoon salt",
+                    "item4":"1/4 teaspoon ginger paste",
+                    "item5":"1 pinch turmeric",
+                    "item6":"1/2 teaspoon chilli powder",
+                    "item7":"1/4 cup gram flour (besan)"
+                },
+                "methods_of_cookies":"Take a deep-bottomed mixing bowl and add sattu, gram flour, chili powder, thymol seeds, garlic paste, ginger paste, turmeric and salt Knead the dough for the papad Pour in water in the mixture and knead it into a smooth dough. Divide the dough into small equal size portions.",
+                "rating" : "4"
+            } ,
+            {
+                "id": "rs13338221",
+                "recipe_name": "Matar Kulcha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjFIxxmdd_pJ8PfYYiaOFxn8vOFUPpSuvhA&usqp=CAU",
+                "ingredients":{
+                    "item1":"2 tablespoon refined oil",
+                    "item2":"1/2 teaspoon garlic paste",
+                    "item3":"1 teaspoon coriander powder",
+                    "item4":"1 teaspoon chaat masala",
+                    "item5":"1/4 cup tamarind juice",
+                    "item6":"salt as required",
+                    "item7":"1 teaspoon cumin seeds"
+                },
+                "methods_of_cookies":"Soak the white peas for 4-5 hours. Starin, wash and keep aside. Cook the peas in a pressure cooker and remember to add salt before cooking. Cook for 3 whistles and let the steam release naturally. Transfer the peas into a bowl and keep aside..",
+                "rating" : "5"
+            }       
         ]
     } ,
     {
@@ -61,6 +127,7 @@
             {
                 "id": "rs53338338",
                 "recipe_name": " Papadam",
+                "recipe_img": " https://st4.depositphotos.com/19960896/28979/i/450/depositphotos_289794242-stock-photo-gujarati-papad-papadum-raw-dried.jpg",
                 "ingredients":{
                     "item1":"1/2 cup black gram flour ( sattu)",
                     "item2":"1 cup refined oil",
@@ -72,7 +139,39 @@
                 },
                 "methods_of_cookies":"Take a deep-bottomed mixing bowl and add sattu, gram flour, chili powder, thymol seeds, garlic paste, ginger paste, turmeric and salt Knead the dough for the papad Pour in water in the mixture and knead it into a smooth dough. Divide the dough into small equal size portions.",
                 "rating" : "4"
-            }           
+            } ,
+            {
+                "id": "rs53358327",
+                "recipe_name": "Paratha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2L8xbHTGpA0ytr_gd7nxoDc3Q-qBMAQQCA&usqp=CAU",
+                "ingredients":{
+                    "item1":"2 potato",
+                    "item2":"1 tablespoon coriander leaves",
+                    "item3":"salt as required",
+                    "item4":"1 tablespoon ghee",
+                    "item5":"1/2 teaspoon red chilli powder",
+                    "item6":"2 tablespoon onion",
+                    "item7":"1/2 teaspoon garam masala powder"
+                },
+                "methods_of_cookies":"To make delicious Aloo Parathas, boil the potatoes at least a few hours before you plan to make the parathas, mash them in a large bowl and cover and refrigerate. Take them out from the fridge and add chopped onions, coriander leaves, salt, garam masala powder and red chilli powder. Mix well so that no lumps remain. Ensure that you have finely chopped the onions or the filling will fall out.",
+                "rating" : "5"
+            } ,
+            {
+                "id": "rs53238221",
+                "recipe_name": "Matar Kulcha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjFIxxmdd_pJ8PfYYiaOFxn8vOFUPpSuvhA&usqp=CAU",
+                "ingredients":{
+                    "item1":"2 tablespoon refined oil",
+                    "item2":"1/2 teaspoon garlic paste",
+                    "item3":"1 teaspoon coriander powder",
+                    "item4":"1 teaspoon chaat masala",
+                    "item5":"1/4 cup tamarind juice",
+                    "item6":"salt as required",
+                    "item7":"1 teaspoon cumin seeds"
+                },
+                "methods_of_cookies":"Soak the white peas for 4-5 hours. Starin, wash and keep aside. Cook the peas in a pressure cooker and remember to add salt before cooking. Cook for 3 whistles and let the steam release naturally. Transfer the peas into a bowl and keep aside..",
+                "rating" : "5"
+            }         
         ]
     } , 
     {
@@ -86,6 +185,7 @@
             {
                 "id": "rs53338321",
                 "recipe_name": " Samosa",
+                "recipe_img": " https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas.jpg?resize=650,813",
                 "ingredients":{
                     "item1":"2 cup all purpose flour",
                     "item2":"1 teaspoon cumin seeds",
@@ -97,7 +197,39 @@
                 },
                 "methods_of_cookies":"To make delicious samosas at home, first, make the filling. Put a pan on medium flame and add 2 tsp oil in it. Once the oil is hot enough, add cumin seeds and allow them to crackle.",
                 "rating" : "5"
-            }           
+            },
+            {
+                "id": "rs53338121",
+                "recipe_name": " Pani Puri",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY07Ci6JnEziVSOMrmF6RgOR-YfhQdXCVYYA&usqp=CAU",
+                "ingredients":{
+                    "item1":"1 cup semolina",
+                    "item2":"water as required",
+                    "item3":"3 teaspoon cumin powder",
+                    "item4":"5 green chilli",
+                    "item5":"1/2 teaspoon baking soda",
+                    "item6":"refined oil as required",
+                    "item7":"4 tablespoon crushed jaggery"
+                },
+                "methods_of_cookies":"To make this easy Pani Puri recipe at home, take a bowl and add semolina, wheat flour, baking soda along with a little salt and water as required and prepare a stiff dough. Adding semolina will make the puris crispy. Then, cover it with a muslin cloth, let it remain aside for about half an hour.",
+                "rating" : "5"
+            } ,
+            {
+                "id": "rs53368338",
+                "recipe_name": " Papadam",
+                "recipe_img": " https://st4.depositphotos.com/19960896/28979/i/450/depositphotos_289794242-stock-photo-gujarati-papad-papadum-raw-dried.jpg",
+                "ingredients":{
+                    "item1":"1/2 cup black gram flour ( sattu)",
+                    "item2":"1 cup refined oil",
+                    "item3":"1/2 teaspoon salt",
+                    "item4":"1/4 teaspoon ginger paste",
+                    "item5":"1 pinch turmeric",
+                    "item6":"1/2 teaspoon chilli powder",
+                    "item7":"1/4 cup gram flour (besan)"
+                },
+                "methods_of_cookies":"Take a deep-bottomed mixing bowl and add sattu, gram flour, chili powder, thymol seeds, garlic paste, ginger paste, turmeric and salt Knead the dough for the papad Pour in water in the mixture and knead it into a smooth dough. Divide the dough into small equal size portions.",
+                "rating" : "4"
+            }            
         ]
     } 
     , 
@@ -112,6 +244,7 @@
             {
                 "id": "rs53338121",
                 "recipe_name": " Pani Puri",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY07Ci6JnEziVSOMrmF6RgOR-YfhQdXCVYYA&usqp=CAU",
                 "ingredients":{
                     "item1":"1 cup semolina",
                     "item2":"water as required",
@@ -122,6 +255,39 @@
                     "item7":"4 tablespoon crushed jaggery"
                 },
                 "methods_of_cookies":"To make this easy Pani Puri recipe at home, take a bowl and add semolina, wheat flour, baking soda along with a little salt and water as required and prepare a stiff dough. Adding semolina will make the puris crispy. Then, cover it with a muslin cloth, let it remain aside for about half an hour.",
+                "rating" : "5"
+            }  
+            ,
+            {
+                "id": "rs53358221",
+                "recipe_name": "Matar Kulcha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjFIxxmdd_pJ8PfYYiaOFxn8vOFUPpSuvhA&usqp=CAU",
+                "ingredients":{
+                    "item1":"2 tablespoon refined oil",
+                    "item2":"1/2 teaspoon garlic paste",
+                    "item3":"1 teaspoon coriander powder",
+                    "item4":"1 teaspoon chaat masala",
+                    "item5":"1/4 cup tamarind juice",
+                    "item6":"salt as required",
+                    "item7":"1 teaspoon cumin seeds"
+                },
+                "methods_of_cookies":"Soak the white peas for 4-5 hours. Starin, wash and keep aside. Cook the peas in a pressure cooker and remember to add salt before cooking. Cook for 3 whistles and let the steam release naturally. Transfer the peas into a bowl and keep aside..",
+                "rating" : "5"
+            } ,
+            {
+                "id": "rs55338327",
+                "recipe_name": "Paratha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2L8xbHTGpA0ytr_gd7nxoDc3Q-qBMAQQCA&usqp=CAU",
+                "ingredients":{
+                    "item1":"2 potato",
+                    "item2":"1 tablespoon coriander leaves",
+                    "item3":"salt as required",
+                    "item4":"1 tablespoon ghee",
+                    "item5":"1/2 teaspoon red chilli powder",
+                    "item6":"2 tablespoon onion",
+                    "item7":"1/2 teaspoon garam masala powder"
+                },
+                "methods_of_cookies":"To make delicious Aloo Parathas, boil the potatoes at least a few hours before you plan to make the parathas, mash them in a large bowl and cover and refrigerate. Take them out from the fridge and add chopped onions, coriander leaves, salt, garam masala powder and red chilli powder. Mix well so that no lumps remain. Ensure that you have finely chopped the onions or the filling will fall out.",
                 "rating" : "5"
             }           
         ]
@@ -138,6 +304,7 @@
             {
                 "id": "rs53338221",
                 "recipe_name": "Matar Kulcha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjFIxxmdd_pJ8PfYYiaOFxn8vOFUPpSuvhA&usqp=CAU",
                 "ingredients":{
                     "item1":"2 tablespoon refined oil",
                     "item2":"1/2 teaspoon garlic paste",
@@ -148,6 +315,39 @@
                     "item7":"1 teaspoon cumin seeds"
                 },
                 "methods_of_cookies":"Soak the white peas for 4-5 hours. Starin, wash and keep aside. Cook the peas in a pressure cooker and remember to add salt before cooking. Cook for 3 whistles and let the steam release naturally. Transfer the peas into a bowl and keep aside..",
+                "rating" : "5"
+            }
+            ,
+            {
+                "id": "rs53338386",
+                "recipe_name": "Naan",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpExFdwB34RFXytIhVPgH7EtRPGaccmDvDMA&usqp=CAU",
+                "ingredients":{
+                    "item1":"1 cup all purpose flour",
+                    "item2":"1 tablespoon butter",
+                    "item3":"1/2 teaspoon salt",
+                    "item4":"/2 cup water",
+                    "item5":"1/2 tablespoon refined oil",
+                    "item6":"1/4 teaspoon baking soda",
+                    "item7":"milk as required"
+                },
+                "methods_of_cookies":"To prepare this easy naan recipe, sieve together the dry ingredients into a kneading plate. Once done, add butter, curd, oil in the dry ingredients and crumble using your fingers. Add little milk (as and when required) in the mixture, till the dough is soft.",
+                "rating" : "4.5"
+            } ,
+            {
+                "id": "rs55338327",
+                "recipe_name": "Paratha",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2L8xbHTGpA0ytr_gd7nxoDc3Q-qBMAQQCA&usqp=CAU",
+                "ingredients":{
+                    "item1":"2 potato",
+                    "item2":"1 tablespoon coriander leaves",
+                    "item3":"salt as required",
+                    "item4":"1 tablespoon ghee",
+                    "item5":"1/2 teaspoon red chilli powder",
+                    "item6":"2 tablespoon onion",
+                    "item7":"1/2 teaspoon garam masala powder"
+                },
+                "methods_of_cookies":"To make delicious Aloo Parathas, boil the potatoes at least a few hours before you plan to make the parathas, mash them in a large bowl and cover and refrigerate. Take them out from the fridge and add chopped onions, coriander leaves, salt, garam masala powder and red chilli powder. Mix well so that no lumps remain. Ensure that you have finely chopped the onions or the filling will fall out.",
                 "rating" : "5"
             }           
         ]
