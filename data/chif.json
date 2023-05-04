@@ -115,7 +115,8 @@
                 "rating" : "5"
             }       
         ]
-    } ,
+    } 
+    ,
     {
         "id": "3",
         "chef_Name":"CHEF MALIK",
@@ -173,7 +174,8 @@
                 "rating" : "5"
             }         
         ]
-    } , 
+    } 
+    , 
     {
         "id": "4",
         "chef_Name":"CHEF KAYLA",
