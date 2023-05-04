@@ -2,7 +2,7 @@
     {
         "id": "1",
         "chef_Name":"BRITTANY DAVIES",
-       " Chef Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,h_300,q_auto,w_300/f_auto/cozymeal_user__phpwXE8eN",
+       " Chef_Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,h_300,q_auto,w_300/f_auto/cozymeal_user__phpwXE8eN",
         "years_of_experience" : "4",
         "likes": "15",
         "numbers_of_recipes" :"5",
@@ -61,7 +61,7 @@
     {
         "id": "2",
         "chef_Name":"CHEF TRE",
-       " Chef Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_php3iNTK0",
+       " Chef_Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_php3iNTK0",
         "years_of_experience" : "5",
         "likes": "22",
         "numbers_of_recipes" :"4",
@@ -120,7 +120,7 @@
     {
         "id": "3",
         "chef_Name":"CHEF MALIK",
-       " Chef Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpkwDrvH",
+       " Chef_Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpkwDrvH",
         "years_of_experience" : "6",
         "likes": "15",
         "numbers_of_recipes" :"7",
@@ -179,7 +179,7 @@
     {
         "id": "4",
         "chef_Name":"CHEF KAYLA",
-       " Chef Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpUKKlRB",
+       " Chef_Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpUKKlRB",
         "years_of_experience" : "4",
         "likes": "18",
         "numbers_of_recipes" :"4",
@@ -238,7 +238,7 @@
     {
         "id": "5",
         "chef_Name":"CHEF JUSTIN",
-       " Chef Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpG22Tmh",
+       " Chef_Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpG22Tmh",
         "years_of_experience" : "4",
         "likes": "14",
         "numbers_of_recipes" :"4",
@@ -298,7 +298,7 @@
     {
         "id": "6",
         "chef_Name":"CHEF AMBER",
-       " Chef Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpfc89QD",
+       " Chef_Picture":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpfc89QD",
         "years_of_experience" : "4",
         "likes": "14",
         "numbers_of_recipes" :"5",
